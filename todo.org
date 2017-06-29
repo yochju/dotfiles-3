@@ -40,8 +40,10 @@ CLOSED: [2016-09-21 Wed 16:35]
 - Added: [2017-03-25 Sat 10:50]
 :END:
 *** TODO See for tramp configuration (default should be ssh)
-** Package/configuration enhancement [78%]
-*** TODO See for the font (adding inconsolata)
+** Package/configuration enhancement [80%]
+*** TODO Deal with use-package specificities
+*** DONE See for the font (adding inconsolata)
+CLOSED: [2017-06-29 Thu 11:27]
 *** DONE See for choice-program package
 CLOSED: [2017-01-31 Tue 12:44]
 *** TODO Voir pour le coup des alertes où quand le buffer est lancé ça la vire !
