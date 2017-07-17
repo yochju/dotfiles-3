@@ -23,14 +23,17 @@ CLOSED: [2016-10-14 Fri 20:28]
 - State "CANCELLED"  from "TODO"       [2016-10-14 Fri 20:28] \\
   Useless in my case
 *** DONE Check hydra
-** Package/configuration problems [62%]
+** Package/configuration problems [87%]
 *** DONE see for the problem of org-capture
 CLOSED: [2017-03-27 Mon 12:14]
 *** DONE [#A] See why some subfile are not loadable even if they are on the the path ??!!!
 CLOSED: [2016-12-27 Tue 17:08]
 *** DONE emms seek problem
 CLOSED: [2016-09-06 Tue 19:53]
-*** TODO emms pause problem for streaming...
+*** CANCELLED emms pause problem for streaming...               :CANCELLED:
+CLOSED: [2017-07-17 Mon 08:13]
+- State "CANCELLED"  from "TODO"       [2017-07-17 Mon 08:13] \\
+  Seems to work now
 *** DONE message overloading
 CLOSED: [2016-09-06 Tue 23:03]
 *** DONE Completing yatemplate templates
@@ -39,7 +42,10 @@ CLOSED: [2016-09-21 Wed 16:35]
 :LOGBOOK:
 - Added: [2017-03-25 Sat 10:50]
 :END:
-*** TODO See for tramp configuration (default should be ssh)
+*** CANCELLED See for tramp configuration (default should be ssh) :CANCELLED:
+CLOSED: [2017-07-17 Mon 08:13]
+- State "CANCELLED"  from "DONE"       [2017-07-17 Mon 08:13] \\
+  Seems to work now
 ** Package/configuration enhancement [80%]
 *** TODO Deal with use-package specificities
 *** DONE See for the font (adding inconsolata)
