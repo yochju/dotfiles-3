@@ -13,6 +13,8 @@
 
 * Global
 ** TODO Solve the link problem for texmf
+** DONE Solve completion of ssh in zshrc
+CLOSED: [2017-07-20 Thu 21:52]
 * Emacs
 :PROPERTIES:
 :CATEGORY: emacs
