@@ -12,7 +12,10 @@
 
 
 * Global
-** TODO Solve the link problem for texmf
+** CANCELLED Solve the link problem for texmf                    :CANCELLED:
+CLOSED: [2017-08-11 Fri 14:15]
+- State "CANCELLED"  from "TODO"       [2017-08-11 Fri 14:15] \\
+  Not really important for now the install file is going to make it
 ** DONE Solve completion of ssh in zshrc
 CLOSED: [2017-07-20 Thu 21:52]
 * Emacs
@@ -25,7 +28,7 @@ CLOSED: [2016-10-14 Fri 20:28]
 - State "CANCELLED"  from "TODO"       [2016-10-14 Fri 20:28] \\
   Useless in my case
 *** DONE Check hydra
-** Package/configuration problems [87%]
+** Package/configuration problems [77%]
 *** DONE see for the problem of org-capture
 CLOSED: [2017-03-27 Mon 12:14]
 *** DONE [#A] See why some subfile are not loadable even if they are on the the path ??!!!
@@ -48,7 +51,8 @@ CLOSED: [2016-09-21 Wed 16:35]
 CLOSED: [2017-07-17 Mon 08:13]
 - State "CANCELLED"  from "DONE"       [2017-07-17 Mon 08:13] \\
   Seems to work now
-** Package/configuration enhancement [80%]
+*** TODO see to define a shape for hydra documentations
+** Package/configuration enhancement [84%]
 *** TODO Deal with use-package specificities
 *** DONE See for the font (adding inconsolata)
 CLOSED: [2017-06-29 Thu 11:27]
@@ -59,8 +63,7 @@ CLOSED: [2017-01-31 Tue 12:44]
 CLOSED: [2016-12-18 Sun 10:09]
 *** DONE See for the fill part on latex (split on punctuation and on line size but jointly)
 CLOSED: [2016-10-30 Sun 12:55]
-*** TODO For the fill part specify the punctation
-*** TODO Force the line to not be split if punctuation not encountered
+*** TODO For the fill part specify the punctation &Force the line to not be split if punctuation not encountered
 *** DONE Support asynchronous mail sending
 CLOSED: [2016-10-30 Sun 12:55]
 *** DONE Link msmtp accounts with mu4e accounts
