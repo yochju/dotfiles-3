@@ -28,7 +28,7 @@ CLOSED: [2016-10-14 Fri 20:28]
 - State "CANCELLED"  from "TODO"       [2016-10-14 Fri 20:28] \\
   Useless in my case
 *** DONE Check hydra
-** Package/configuration problems [77%]
+** Package/configuration problems [88%]
 *** DONE see for the problem of org-capture
 CLOSED: [2017-03-27 Mon 12:14]
 *** DONE [#A] See why some subfile are not loadable even if they are on the the path ??!!!
@@ -51,7 +51,8 @@ CLOSED: [2016-09-21 Wed 16:35]
 CLOSED: [2017-07-17 Mon 08:13]
 - State "CANCELLED"  from "DONE"       [2017-07-17 Mon 08:13] \\
   Seems to work now
-*** TODO see to define a shape for hydra documentations
+*** DONE see to define a shape for hydra documentations
+CLOSED: [2017-08-20 Sun 14:03]
 ** Package/configuration enhancement [84%]
 *** TODO Deal with use-package specificities
 *** DONE See for the font (adding inconsolata)
