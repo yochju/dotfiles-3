@@ -11,101 +11,18 @@
 #+SETUPFILE: ~/environment/src/non-install-utils/org-html-themes/setup/theme-readtheorg.setup
 
 * Global
-** CANCELLED Solve the link problem for texmf                    :CANCELLED:
-CLOSED: [2017-08-11 Fri 14:15]
-- State "CANCELLED"  from "TODO"       [2017-08-11 Fri 14:15] \\
-  Not really important for now the install file is going to make it
-** DONE Solve completion of ssh in zshrc
-CLOSED: [2017-07-20 Thu 21:52]
 * Emacs
 :PROPERTIES:
 :CATEGORY: emacs
 :END:
 ** Package-reviewing [100%]
-*** CANCELLED Have a look at [[https://github.com/brabalan/org-review][org-review]]                         :CANCELLED:
-CLOSED: [2016-10-14 Fri 20:28]
-- State "CANCELLED"  from "TODO"       [2016-10-14 Fri 20:28] \\
-  Useless in my case
-*** DONE Check hydra
-*** TODO Check readline package
-:LOGBOOK:
-- Added: [2017-07-27 Thu 10:48]
-:END:
-
-** Package/configuration problems [81%]
-*** DONE see for the problem of org-capture
-CLOSED: [2017-03-27 Mon 12:14]
-*** DONE [#A] See why some subfile are not loadable even if they are on the the path ??!!!
-CLOSED: [2016-12-27 Tue 17:08]
-*** DONE emms seek problem
-CLOSED: [2016-09-06 Tue 19:53]
-*** CANCELLED emms pause problem for streaming...               :CANCELLED:
-CLOSED: [2017-07-17 Mon 08:13]
-- State "CANCELLED"  from "TODO"       [2017-07-17 Mon 08:13] \\
-  Seems to work now
-*** DONE message overloading
-CLOSED: [2016-09-06 Tue 23:03]
-*** DONE Completing yatemplate templates
-CLOSED: [2016-09-21 Wed 16:35]
+** Package/configuration problems [91%]
 *** TODO [#A] FIXME in java mode comment (merge fixme and fic-mode)
 :LOGBOOK:
 - Added: [2017-03-25 Sat 10:50]
 :END:
-*** CANCELLED See for tramp configuration (default should be ssh) :CANCELLED:
-CLOSED: [2017-07-17 Mon 08:13]
-- State "CANCELLED"  from "DONE"       [2017-07-17 Mon 08:13] \\
-  Seems to work now
-*** DONE see to define a shape for hydra documentations
-CLOSED: [2017-08-20 Sun 14:03]
-*** TODO See for duplicate org-agenda-files problem
-*** DONE Adding default bookmark to configuration file
-CLOSED: [2017-12-07 Thu 14:21]
-:LOGBOOK:
-- Added: [2017-09-08 Fri 13:08]
-:END:
-
 ** Package/configuration enhancement [84%]
 *** TODO Deal with use-package specificities
-*** DONE See for the font (adding inconsolata)
-CLOSED: [2017-06-29 Thu 11:27]
-*** DONE See for choice-program package
-CLOSED: [2017-01-31 Tue 12:44]
 *** TODO Voir pour le coup des alertes où quand le buffer est lancé ça la vire !
-*** DONE Update mode-line-color
-CLOSED: [2016-12-18 Sun 10:09]
-*** DONE See for the fill part on latex (split on punctuation and on line size but jointly)
-CLOSED: [2016-10-30 Sun 12:55]
-*** TODO For the fill part specify the punctation &Force the line to not be split if punctuation not encountered
-*** DONE Support asynchronous mail sending
-CLOSED: [2016-10-30 Sun 12:55]
-*** DONE Link msmtp accounts with mu4e accounts
-CLOSED: [2016-11-02 Wed 11:12]
-*** DONE Support imap-push for mu4e
-CLOSED: [2016-09-21 Wed 16:40]
-*** DONE Insert a timestamp when a task is indicated as DONE
-CLOSED: [2016-09-06 Tue 13:28]
-*** DONE Org/Hydra
-CLOSED: [2016-10-24 Mon 14:50]
-*** CANCELLED mu4e/Hydra                                        :CANCELLED:
-CLOSED: [2017-02-26 Sun 09:34]
-*** DONE See how to link node-imap and mu4e
-CLOSED: [2016-11-09 Wed 14:12]
-*** CANCELLED Org-agenda view (adding head in todo list view)   :CANCELLED:
-CLOSED: [2016-11-02 Wed 11:01]
-- State "CANCELLED"  from "TODO"       [2016-11-02 Wed 11:01] \\
-  no useless
-*** DONE msmtp configuration file support emacs
-CLOSED: [2016-11-09 Wed 14:12]
-*** DONE See for ox-minutes
-CLOSED: [2017-04-01 Sat 09:49]
-:LOGBOOK:
-- Added: [2017-03-25 Sat 10:52]
-:END:
-*** DONE Seeing for org-edit-latex
-CLOSED: [2017-04-01 Sat 09:49]
-:LOGBOOK:
-- Added: [2017-03-25 Sat 10:53]
-:END:
-*** DONE Get rid of the subpart directory
-CLOSED: [2017-06-22 Thu 10:24]
+*** TODO For the fill part specify the punctation & Force the line to not be split if punctuation not encountered
 * COMMENT some extra configuration
