@@ -21,8 +21,17 @@
 :LOGBOOK:
 - Added: [2017-03-25 Sat 10:50]
 :END:
-** Package/configuration enhancement [84%]
+** Package/configuration enhancement [20%]
 *** TODO Deal with use-package specificities
 *** TODO Voir pour le coup des alertes où quand le buffer est lancé ça la vire !
 *** TODO For the fill part specify the punctation & Force the line to not be split if punctuation not encountered
+*** DONE Adapt the id based on: [[https://writequit.org/articles/emacs-org-mode-generate-ids.html#h-cf29e5e7-b456-4842-a3f7-e9185897ac3b][Emacs Org-mode: Use good header ids!]]
+CLOSED: [2017-12-30 Sat 17:53]
+:LOGBOOK:
+- Added: [2017-12-28 Thu 08:12]
+:END:
+*** TODO Take into account org-id+
+:LOGBOOK:
+- Added: [2017-12-30 Sat 17:04]
+:END:
 * COMMENT some extra configuration
