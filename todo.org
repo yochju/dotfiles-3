@@ -21,7 +21,7 @@
 :LOGBOOK:
 - Added: [2017-03-25 Sat 10:50]
 :END:
-** Package/configuration enhancement [20%]
+** Package/configuration enhancement [36%]
 *** TODO Deal with use-package specificities
 *** TODO Voir pour le coup des alertes où quand le buffer est lancé ça la vire !
 *** TODO For the fill part specify the punctation & Force the line to not be split if punctuation not encountered
@@ -33,5 +33,30 @@ CLOSED: [2017-12-30 Sat 17:53]
 *** TODO Take into account org-id+
 :LOGBOOK:
 - Added: [2017-12-30 Sat 17:04]
+:END:
+*** DONE [#A] Look at key-chord
+CLOSED: [2018-01-05 Fri 16:47] SCHEDULED: <2018-01-02 Tue>
+:LOGBOOK:
+- Added: [2017-07-12 Wed 12:50]
+:END:
+
+*** DONE See for prodigy auto-start
+CLOSED: [2017-12-20 Wed 09:31]
+:LOGBOOK:
+- Added: [2017-11-03 Fri 15:18]
+:END:
+*** DONE [#A] See for github issues
+CLOSED: [2017-12-30 Sat 08:34]
+:LOGBOOK:
+- Added: [2017-12-13 Wed 15:32]
+:END:
+*** TODO [#A] See for sauron notification with github issues
+*** TODO See for fill-column in message mode
+:LOGBOOK:
+- Added: [2018-01-03 Wed 16:07]
+:END:
+*** TODO See for sauron and system notification (?)
+:LOGBOOK:
+- Added: [2018-01-03 Wed 16:48]
 :END:
 * COMMENT some extra configuration
