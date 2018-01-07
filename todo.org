@@ -52,7 +52,7 @@ CLOSED: [2017-12-30 Sat 08:34]
 - Added: [2017-12-13 Wed 15:32]
 :END:
 *** TODO [#A] See for sauron notification with github issues
-*** TODO See for fill-column in message mode
+*** TODO [#A] See for fill-column in message mode
 :LOGBOOK:
 - Added: [2018-01-03 Wed 16:07]
 :END:
