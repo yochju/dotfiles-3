@@ -8,7 +8,7 @@
 #+OPTIONS:   H:1 num:t toc:nil  \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
-#+SETUPFILE: ~/environment/src/non-install-utils/org-html-themes/setup/theme-readtheorg.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://www.coli.uni-saarland.de/~slemaguer/default.css" />
 
 * Global
 * Emacs
