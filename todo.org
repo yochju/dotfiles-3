@@ -17,11 +17,11 @@
 :END:
 ** Package-reviewing [100%]
 ** Package/configuration problems [91%]
-*** TODO [#A] FIXME in java mode comment (merge fixme and fic-mode)
+*** TODO [#B] FIXME in java mode comment (merge fixme and fic-mode)
 :LOGBOOK:
 - Added: [2017-03-25 Sat 10:50]
 :END:
-** Package/configuration enhancement [45%]
+** Package/configuration enhancement [54%]
 *** TODO Deal with use-package specificities
 *** TODO Voir pour le coup des alertes où quand le buffer est lancé ça la vire !
 *** TODO For the fill part specify the punctation & Force the line to not be split if punctuation not encountered
@@ -51,8 +51,9 @@ CLOSED: [2017-12-30 Sat 08:34]
 :LOGBOOK:
 - Added: [2017-12-13 Wed 15:32]
 :END:
-*** TODO [#A] See for sauron notification with github issues
-*** TODO [#A] See for fill-column in message mode
+*** TODO [#B] See for sauron notification with github issues
+*** DONE [#A] See for fill-column in message mode
+CLOSED: [2018-01-15 Mon 12:03]
 :LOGBOOK:
 - Added: [2018-01-03 Wed 16:07]
 :END:
